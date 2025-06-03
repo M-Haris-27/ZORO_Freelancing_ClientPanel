@@ -161,7 +161,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 If you have any questions, feel free to reach out:
-- **Abdul Moiz**  
-- Email: abdulmoiz8895@gmail.com 
-- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
+- **Muhammad Haris**  
+- Email: haris54955@gmail.com 
+- GitHub: [M-Haris-27](https://github.com/M-Haris-27)
 ```
